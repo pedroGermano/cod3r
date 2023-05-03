@@ -1,7 +1,7 @@
-export default function Primeiro(){
-  return(
-    <>
-      <h1>Primeiro</h1>
-    </>
+export default function Primeiro() {
+  return (
+      <div>
+          Primeiro Componente
+      </div>
   )
 }
