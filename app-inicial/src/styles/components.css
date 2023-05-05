@@ -1,0 +1,5 @@
+.botao{
+  @apply text-white bg-blue-500;
+  @apply px-4 py-2 font-bold rounded;
+  @apply text-white hover:bg-blue-600;
+}
